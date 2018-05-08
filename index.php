@@ -10,12 +10,13 @@
         <meta name="author" content="Ahmad Altaib Ali">
 
         <!-- ======================= FB meta TAGs ======================= -->
-        <meta name="og:url" content="http://www.altaib.net">
-        <meta name="og:type" content="Protfolio website">
-        <meta name="og:title" content="Altaib | Portfolio">
-        <meta name="og:image" content="http://altaib.net/images/profilepic.png">
-        <meta name="og:description" content="I'm 'Ahmad Altaib' Ali works as a Software Engineer familiar with front and back end creating Websites, Web Apps and Portfolios for companies of all sizes around the globe using php, Python, Java, JavaScript, Bootstrab, Foundation, Yii Framework, Laravel Framework, Spring Framework">
-        <meta name="og:app_id" content="476352019448808">
+        <meta property="og:url" content="http://www.altaib.net">
+        <meta property="og:type" content="Protfolio website">
+        <meta property="og:title" content="Altaib | Portfolio">
+        <meta property="og:image" content="http://altaib.net/images/profilepic.png">
+        <meta property="og:description" content="I'm 'Ahmad Altaib' Ali works as a Software Engineer familiar with front and back end creating Websites, Web Apps and Portfolios for companies of all sizes around the globe using php, Python, Java, JavaScript, Bootstrab, Foundation, Yii Framework, Laravel Framework, Spring Framework">
+        <meta property="og:app_id" content="476352019448808">
+        <meta property="og:locale" content="en_US">
 
         <!-- ======================= Mobile Specific Metas ======================= -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
