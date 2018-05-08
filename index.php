@@ -117,11 +117,11 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal"> <i class="fa fa-times-circle"></i> </button>
-                            <a href="download_ahmad_altaib_ali_cv.php" class="close download-icon" onclick="$('#cvModal').modal('hide');" target="_blank" > <i class="fa fa-download"></i> </a>
+                            <a href="downloadahmadaltaibalicv.php" class="close download-icon" onclick="$('#cvModal').modal('hide');" target="_blank" > <i class="fa fa-download"></i> </a>
                             <h4 class="modal-title">Modal Header</h4>
                         </div>
                         <div class="modal-body">
-                            <iframe src="cv/Ahmad_Ali_CV.pdf" style="width: 100%;height: 100%;"></iframe>
+                            <iframe src="cv/AhmadAliCV.pdf" style="width: 100%;height: 100%;"></iframe>
                         </div>
                     </div>
 
