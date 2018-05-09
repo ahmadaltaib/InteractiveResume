@@ -952,5 +952,6 @@ footer .social-links li:first-child { margin-left: 0; }
 .item-wrap {
     height: 150px;
 }
-
-font-size: 18px;
+.lead b{
+    font-size: 18px;
+}

@@ -22,14 +22,11 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
         <!-- ======================= CSS ======================= -->
-        <link rel="stylesheet" href="css/default.css">
-        <link rel="stylesheet" href="css/layout.css">
-        <link rel="stylesheet" href="css/media-queries.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
+        <link rel="stylesheet" href="css/default.min.css">
+        <link rel="stylesheet" href="css/layout.min.css">
+        <link rel="stylesheet" href="css/media-queries.min.css">
+        <link rel="stylesheet" href="css/magnific-popup.min.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-
-        <!-- ======================= Script ======================= -->
-        <script src="js/modernizr.js"></script>
 
         <!-- ======================= Favicons ======================= -->
         <link rel="shortcut icon" href="favicon.ico" >
@@ -409,15 +406,14 @@
        </footer>
 
         <!-- ======================= Java Script ======================= -->
+        <script src="js/modernizr.js"></script>
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/jquery-1.10.2.min.js"><\/script>')</script>
         <script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-        <script src="js/jquery.flexslider.js"></script>
         <script src="js/waypoints.js"></script>
-        <script src="js/jquery.fittext.js"></script>
         <script src="js/magnific-popup.js"></script>
-        <script src="js/init.js"></script>
+        <script src="js/init.min.js"></script>
 
     </body>
 </html>
